@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular relation of the late success of His Majesties forces at Tangier against the Moors</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56494</idno>
+            <idno type="STC">Wing P600</idno>
+            <idno type="STC">ESTC R6694</idno>
+            <idno type="EEBO-CITATION">12801135</idno>
+            <idno type="OCLC">ocm 12801135</idno>
+            <idno type="VID">94051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 725:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular relation of the late success of His Majesties forces at Tangier against the Moors</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>[London, In the Savoy :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94051:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <head>A PARTICULAR RELATION OF THE LATE SUCCESS OF His MAJESTIES Forces at <hi>TANGIER</hi> againſt the <hi>MOORS.</hi>
+            </head>
+            <argument>
+               <p>Publiſhed by Authority.</p>
+            </argument>
+            <opener>
+               <dateline>Tangier,<date>Septemb. 23. 1680.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He 12th Inſtant arrived here the <hi>Sweep<g ref="char:EOLhyphen"/>ſtakes</hi> and other Veſſels with three Troops of Horſe, conſiſting of 150 Men, and with Stores and Proviſions of War. The 15th, being the Morning after the <hi>New Moon</hi> appeared, the <hi>Alcayde</hi> ſent <hi>Hamet</hi> with a White Flag, to acquaint Sir <hi>Palmes Fair<g ref="char:EOLhyphen"/>borne</hi> our Lieutenant-Governor, That the Ceſſation was expired; and the ſame day the <hi>Moors</hi> made ſeveral Shot at our Sentinels, and were Anſwer<g ref="char:EOLhyphen"/>ed in the like kind. From the 15th to the 20th there paſſed no<g ref="char:EOLhyphen"/>thing of Action: But a Council of War having been held, It was Reſolved to March out, in order to the Recovering ſome of thoſe Poſts which the Enemy was in Poſſeſſion of. Accordingly on the 20th, by break of day, the Horſe Marched out at <hi>Cathe<g ref="char:EOLhyphen"/>rina</hi>-Port,
+<pb n="2" facs="tcp:94051:2"/>
+               <!-- PDF PAGE 36 -->
+a ſmall Party whereof being appointed to diſcover the Ground, our Governor the Lord <hi>Mordant,</hi> and Mr. <hi>Sheres</hi> our Surveyor-General being at the head of them, galloped up to the Ruines of <hi>Pole</hi>-Fort; where the Enemy uſed to have a ſtrong Guard; but finding not ſo much as a Sentinel there, they advanced along the Ridge of the Hill to the ground whereon <hi>Monmouth</hi>-Fort ſtood, where likewiſe the <hi>Moors</hi> were wont to keep a conſtant Guard, which Poſt they alſo found deſerted. In the mean time the Horſe being poſted in convenient ſtations, the Foot Marched out with all the ſilence poſſible, conſiſting of Four Battalions, and an Advanced Party of 200 Men Commanded by Lieutenant-Colonel <hi>Talmaſh,</hi> the Earl of <hi>Plimouth,</hi> and ſeveral Gen<g ref="char:EOLhyphen"/>tlemen with him, being Voluntiers, who Marching up to the Ground of <hi>Pole</hi>-Fort took their Poſt there; Lieutenant-Collonel <hi>Sackville,</hi> with the Battalion of Guards, was Poſted on the Right, upon the skirt of the ſaid Hill, on the Left of whom was a Battalion of the Old Regiment of the Garriſon, Commanded by Captain <hi>Giles;</hi> the other two Battalions, drawn out of the Scotch Regiment, were on the Left of them, Commanded by Major <hi>Hackett,</hi> and Captain <hi>Spott,</hi> with a Company of Gre<g ref="char:EOLhyphen"/>nadiers Commanded by Captain <hi>Hodges.</hi> In the <hi>Spurr</hi> within the <hi>Stockades,</hi> before <hi>Catherine</hi>-Port, was Poſted another Battalion of the Old Garriſon, Commanded by Major <hi>Boynton.</hi> Vice-Admiral <hi>Herbert,</hi> with 500 Seamen, Marched out at the Sally-Port, on the South-Eaſt ſide of the <hi>Town,</hi> and poſſeſt the Ground between that and <hi>Cambridge</hi>-Fort, where they Entrencht themſelves. The Parties being thus diſpoſed, a competent num<g ref="char:EOLhyphen"/>ber of Men, appointed for the Works, advanced, in order to their Intrenching on the Ground of <hi>Pole</hi>-Fort, where Major <hi>Beckman</hi> the Ingenier aſſigned them their Work. The Enemy by this time having taken the Allarme, came and lodged themſelves upon our Old Line, betwixt <hi>James</hi> and <hi>Monmouth</hi>-Forts, from whence they plyed us very warmly with their Small-ſhot, the place lying wholly open to it; but our Men, encouraged by our Gover<g ref="char:EOLhyphen"/>nor, who Commanded upon the Spott, notwithſtanding the ſharpneſs of the Service, went through with it; In the mean time ſmall Parties were drawn out of the ſeveral Battalions, who advancing to the very Line where the Enemy was lodged, for<g ref="char:EOLhyphen"/>ced them thence; in which Service, a Party of Grenadiers, Commanded by Captain <hi>Hodges,</hi> behaved themſelves very bravely. Theſe Detachments were relieved by others, by which means the Enemy was conſtantly entertained, and our Works went on cheerfully. By Night we had Intrenched and Stockaded in as much Ground, as received 500 men, who were lodged there,
+<pb n="3" facs="tcp:94051:2"/>
+               <!-- PDF PAGE 36 -->
+Commanded by L<hi rend="sup">t</hi>. Colonel <hi>Sackville</hi> (my Lord <hi>Plimouth,</hi> my Lord <hi>Mordant,</hi> and moſt of the Gentlemen Volunteers bearing him company) Lieutenant-Colonel <hi>Talmaſh,</hi> Captain <hi>Kirke,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Lockart,</hi> Captain <hi>St. Johns,</hi> &amp;c. commanding under him. In this days Action we had 5 men killed, 12 wounded; of the Horſe ſeveral were ſhot in their Arms; and the <hi>Moors</hi> permitted us to retire without giving us any diſturbance.</p>
+            <p>The 21, we marched out as early as the day before, with this difference only, that Major <hi>Boynton</hi> commanded a Battalion in the Field, and Captain <hi>Giles</hi> in the Place of Arms before <hi>Cathe<g ref="char:EOLhyphen"/>rine-Port;</hi> having poſted the ſeveral Battalions, we proſecuted our Works within our new Intrenchment by Blinds, Parrapets, and performing other Services for the ſtrengthening the place, and ſecuring our men; We poſſeſt our ſelves of thoſe Advanced-Poſts from whence the Enemy annoyed us at our Work. We al<g ref="char:EOLhyphen"/>ſo took poſſeſſion of a Line on the right of <hi>Pole-Fort,</hi> where the E<g ref="char:EOLhyphen"/>nemy had pitched their Colours with very little loſs; and the ground we gained we kept; and in order to the ſecuring our new Works, we began a Line from <hi>Pole-Fort,</hi> to the Left, toward <hi>Bridges-Fort;</hi> this day and the day before ſeveral of the Enemies Horſe and Foot were killed; of ours 7 were ſlain, and 18 wounded; of the Horſe ſeveral were ſhot in their Arms, and two Horſes killed, and two more diſabled; This night Major <hi>Hacket</hi> had the Guard in our New-Work at <hi>Pole-Fort,</hi> Captain <hi>Hodges,</hi> Captain <hi>Loudy,</hi> Captain <hi>Hume,</hi> &amp;c. commanding under him.</p>
+            <p>The 22, we marched out early as before, taking Poſſeſſion of the Ground, as formerly, by Detachements from our Battali<g ref="char:EOLhyphen"/>ons, a Party of Grenadiers of Vice-Admiral <hi>Herbert</hi>'s Men being poſted upon the Ground of <hi>Monmouth</hi> Fort. Some of the <hi>Moors</hi> Horſe advanced very reſolutely to the very Line where our Men were Lodged, but were repulſed, and ſeveral of them killed. Several of the <hi>Scotch</hi> Grenadiers, who were very active and daring, advancing to the Sand-Hills a little too far, and mixing with the <hi>Moors,</hi> were ſome of them killed, and others advancing to their relief, were likewiſe hard put to it. All this day the Enemy kept us in much Action, they preſſing our Advanced-Parties very much who were aſſiſted and ſuſtained by the Horſe, and maintained their Ground till night, when it was thought fit they ſhould retire; and that they might the better do it, our Governor, who perceiving the Enemies ſtrength to be encreaſed, as well by the number of Colours that appeared, as by their preſſing us more this day than they had done hitherto, conjectured they would make ſome brisk. Attempt upon our Retreat, provided for it by commanding Ma<g ref="char:EOLhyphen"/>jor
+<pb n="4" facs="tcp:94051:3"/>
+               <!-- PDF PAGE 37 -->
+               <hi>Hacket</hi> with a Party to ſuſtain the Rear, which proved of ad<g ref="char:EOLhyphen"/>mirable uſe to us; for the <hi>Moors</hi> upon our retiring, immediately advanced, and came over our Lines, but were ſo well received by Major <hi>Hacket,</hi> that they ſoon retreated. In the Evening Vice-Admiral <hi>Herbert</hi> planted two Demy-Culverins at his Poſt, which did good Service; this day we had 8 Men killed, and 20 wounded.</p>
+            <p>Thus you have an Account of theſe three days proceedings, in which our Governor has ſhown as much Military Skill as Perſo<g ref="char:EOLhyphen"/>nal Bravery,</p>
+            <p>Vice-Admiral <hi>Herbert</hi> on this, as on all other occaſions, has given Proofs of his Courage and Conduct. Major <hi>Beckman</hi> has ſhown himſelf a ſtout and able Man in his Profeſſion; Lieu<g ref="char:EOLhyphen"/>tenant-Colonel <hi>Sackville,</hi> Lieutenant-Colonel <hi>Talmaſh,</hi> Major <hi>Hacket,</hi> Captain <hi>Faltry,</hi> Captain <hi>Kirke,</hi> Lieutenant <hi>Bridgeman,</hi> and Lieutenant <hi>Fitz-Patricke,</hi> and all the other Officers as well <hi>Engliſh</hi> as <hi>Scotch,</hi> have behaved themſelves like brave and gal<g ref="char:EOLhyphen"/>lant Men; and all the Soldiers in general that were in the Actions deſerve a like Commendation: The Gentlemen Volunteers have likewiſe approved themſelves Men of Courage; And the Earl of <hi>Plimouth</hi> and the Lord <hi>Mordant,</hi> did not let any Action paſs either on Foot or Horſeback, in which they had not a ſhare.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY:</hi> Printed by <hi>Tho. Newcomb,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
